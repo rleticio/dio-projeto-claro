@@ -1,0 +1,15 @@
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\entities\ProductVariation.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\UpdateProductDto.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\enums\Category.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\PizzaplanetApplication.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\entities\Product.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\controllers\ProductController.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\RecoveryProductDto.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\RecoveryProductVariationDto.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\mapper\ProductMapper.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\repositories\ProductVariationRepository.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\CreateProductVariationDto.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\UpdateProductVariationDto.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\repositories\ProductRepository.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\service\ProductService.java
+D:\estudos\apirest\4_pizzaplanet\pizzaplanet\src\main\java\com\estudo\pizzaplanet\dto\CreateProductDto.java
